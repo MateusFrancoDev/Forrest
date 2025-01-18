@@ -9,7 +9,11 @@ module.exports = {
       padding: {
         DEFAULT: ".5rem",
         sm: "1rem"
-      }
+      },
+    },
+    fontFamily: {
+      sans: ["DM Sans", "sans-ui", "sans-serif"],
+      serif: ["DM Serif Text", "Georgia", "serif"],
     },
     extend: {
       keyframes: {
